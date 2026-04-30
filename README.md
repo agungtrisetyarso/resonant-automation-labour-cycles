@@ -29,5 +29,3 @@ This repository contains all code, data, and scripts required to reproduce the r
    cd fault-tolerant-quantum-resonant-automation
 pip install -r requirements.txt
 
-python scripts/figure1_resonant_oscillations.py
-python scripts/figure2_quantum_advantage.py
