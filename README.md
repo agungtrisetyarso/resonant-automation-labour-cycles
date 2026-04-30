@@ -20,3 +20,10 @@ This repository contains all code, data, and scripts required to reproduce the r
 - Resource estimates showing that a few hundred logical qubits suffice for realistic multi-sector macroeconomic forecasting.
 
 ## Repository Structure
+
+## Reproduction Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/agungtrisetyarso/fault-tolerant-quantum-resonant-automation.git
+   cd fault-tolerant-quantum-resonant-automation
