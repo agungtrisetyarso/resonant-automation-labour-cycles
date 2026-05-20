@@ -1,5 +1,5 @@
 # fault-tolerant-quantum-resonant-automation
-Code and data for the Nature Communications paper: Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
+Code and data for the npj Complexity paper: Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
 # Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
