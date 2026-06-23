@@ -1,6 +1,6 @@
 Resonant Automation Labour Cycles
 
-Code and data for the npj Complexity paper: Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
+Code and data for the Physica A paper
 
 # Resonant Automation Labour Cycles in Automation-Driven Labour–Capital Substitution
 
