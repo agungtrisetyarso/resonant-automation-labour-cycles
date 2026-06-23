@@ -1,12 +1,14 @@
-# fault-tolerant-quantum-resonant-automation
+Resonant Automation Labour Cycles
+
 Code and data for the npj Complexity paper: Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
-# Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
+
+# Resonant Automation Labour Cycles in Automation-Driven Labour–Capital Substitution
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Repository for the manuscript submitted to *Nature Communications***  
-**Title:** Fault-Tolerant Quantum Simulation of Multi-Decadal Resonant Oscillations in Automation-Driven Labour–Capital Substitution
+**Repository for the manuscript submitted to *Physica A***  
+**Title:** A resonant LC model of automation-driven labour-share cycles: an a priori multi-decadal frequency and its spectral validation
 
 ## Overview
 
