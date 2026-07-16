@@ -18,7 +18,7 @@ Code and data for the manuscript submitted to Structural Change and Economic Dyn
 
 ## Overview
 
-This repository contains all code, notebooks, calibration scripts, and supplementary materials required to fully reproduce the analyses, figures, tables, and results of the associated manuscript submitted to *Physica A*.
+This repository contains all code, notebooks, calibration scripts, and supplementary materials required to fully reproduce the analyses, figures, tables, and results of the associated manuscript submitted to Structural Change and Economic Dynamics.
 
 We map the Acemoglu–Restrepo task-based framework to a classical resonant **LC circuit** (human adaptive capacity as capacitor *C*, automation capital stock as inductor *L*). This yields a damped harmonic-oscillator equation for labour-share dynamics. The undamped natural frequency 
 
