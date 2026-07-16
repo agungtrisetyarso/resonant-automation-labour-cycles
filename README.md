@@ -1,6 +1,6 @@
 # Resonant Automation Labour Cycles
 
-Code and data for the manuscript submitted to *Physica A*
+Code and data for the manuscript submitted to Structural Change and Economic Dynamics
 
 **Title:** A resonant LC model of automation-driven labour-share cycles: an a priori multi-decadal frequency and its spectral validation
 
